@@ -2,7 +2,7 @@ import datetime
 print("---------------------------------------------------------")
 mydt = datetime.datetime.now()
 print("welcome to minify for CSS/SASS/LESS/STYLUS")
-print("make sure file path is exist!!")
+print("make sure file path is exist!")
 print("Copyright (c) " + mydt.strftime("%Y") + " Suresh. P \n")
 ask_it = str(input("enter the file path to minify: \n".upper()))
 css_save = []
