@@ -21,6 +21,6 @@ minifyer.py is the best way to minify your stylesheet files. It's minified your 
 - python 3.6+
 
 ### Copyright & License
-© 2021 Suresh.P
+© 2021 Suresh Pandiyan
 <br>
 Code released under MIT License
